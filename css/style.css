@@ -1,0 +1,19 @@
+html {
+  background: url(../images/bg.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.title h1 {
+  -webkit-font-smoothing: antialiased;
+  font-family: -apple-system, "BlinkMacSystemFont", "Helvetica Neue", "Helvetica", "Lucida Grande", "Arial", sans-serif;
+  color: #fff;
+  font-size: 8em;
+}
+
+.title {
+  text-align: center;
+  margin-top: 10%;
+}
